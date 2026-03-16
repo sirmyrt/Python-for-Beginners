@@ -1,0 +1,4 @@
+Mert Onur : 75 , 90 , 50
+Ayberk Pancar : 82 , 40 , 65
+Ege Korkmaz : 90 , 80 , 30
+Ada Parlak : 100 , 95 , 3

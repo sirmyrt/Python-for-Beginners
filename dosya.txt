@@ -1,0 +1,5 @@
+Merhaba, bu bir deneme dosyasidir.
+Bu dosya Python ile yazilmistir.
+Dosya islemleri cok kolaydir.
+Bu bir ekleme satiridir.
+Bu bir ekleme satiridir.
